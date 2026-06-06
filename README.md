@@ -1,4 +1,6 @@
-AI Resume Screening System
+# AI Resume Screening System
+
+An AI-powered Resume Screening System developed using Python, Streamlit, and PyPDF2. The application analyzes uploaded resumes, extracts relevant skills, and generates a resume score based on predefined job requirements.
 
 Overview
 
